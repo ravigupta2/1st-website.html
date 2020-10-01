@@ -1,2 +1,2 @@
-# html-website
-This is simple html website for understanding html tags easily
+# Html Website
+This is simple html website and tags are easy to learn and this is my first project
